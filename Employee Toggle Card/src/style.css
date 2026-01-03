@@ -1,0 +1,16 @@
+.page {
+  padding: 24px;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 16px;
+  max-width: 420px;
+}
+
+.highlight {
+  border-color: #4a90e2;
+  box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.2);
+}
